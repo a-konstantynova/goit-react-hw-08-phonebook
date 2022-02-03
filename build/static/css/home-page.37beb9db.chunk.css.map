@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/pages/HomePage/HomePage.module.css"],"names":[],"mappings":"AAAA,uBACE,gBAAiB,CACjB,iBACF","file":"home-page.37beb9db.chunk.css","sourcesContent":[".title {\n  padding-top: 50px;\n  align-self: center;\n}\n"]}
